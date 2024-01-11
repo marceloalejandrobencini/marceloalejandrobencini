@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm <a href="https://100rabhcsmc.github.io/Me.io/" target="blank">
+<h1 align="center">Hi 👋, I'm <a>
 Marcelo Bencini</a></h1>
 <h3 align="center"> 🇨🇱 :it:</h3>
 
@@ -7,6 +7,11 @@ Marcelo Bencini</a></h1>
 </a>
 
 - 👨‍💻 Currently studying Full Stack Software Development at <a href="https://4geeksacademy.com/us/index" target="blank">4Geeks Academy</a>
+
+- 🌐 **Languages:**
+   - Native Spanish 
+   - English 
+   - Italian 
 
 - 🤝 I’m available for freelancing.
 
